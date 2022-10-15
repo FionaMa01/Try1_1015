@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Reminder
-This is a 'try' repo on public
+This is a 'try' repo
